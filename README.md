@@ -1,4 +1,4 @@
-# Hey, I'm Mason E.
+# Hey, I'm Mason
 
 ---
 
