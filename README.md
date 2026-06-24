@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Mason E.
 
-<!--
-**Mason3548/Mason3548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Attending **Cal Poly SLO** for Computer Engineering
+- FRC Alumnus
+
+---
+
+## Projects
+
+- **S.E.R.G.E. Storm Team** *(WIP)*
+- **Survival Game** *(WIP)*
+- **WMSP Storm Probe** ✅
+- **Yagi Disc Antenna** ✅
+- **Shopping Go-Kart** ✅
+
+---
+
+## STEM Know-How
+
+### Programming Languages
+- Python
+- C#
+- C
+- C++
+- Java
+- HTML/CSS
+- PowerShell (PS1)
+
+### Engineering & CAD
+- Onshape
+- Autodesk
+- 3D Printing
+
+### Design & Modeling
+- Blender
+- Aseprite
+
+---
